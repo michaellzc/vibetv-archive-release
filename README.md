@@ -1,7 +1,7 @@
 # VibeTV Archive
 
 A Mac app that sends magnet links to Real-Debrid and downloads the files into your media folders,
-named and sorted for your media server. VibeTV Archive Controller, its iPhone companion, browses and
+named and sorted for your media server. VibeTV Archive Controller ("VibeTV Remote" on the home screen), its iPhone companion, browses and
 starts downloads on your Mac over Tailscale.
 
 This repository only hosts releases. Download the latest version from
